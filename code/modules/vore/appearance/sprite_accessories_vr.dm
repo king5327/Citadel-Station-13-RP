@@ -504,6 +504,7 @@
 	name = "spider legs"
 	desc = ""
 	icon_state = "spider-legs"
+	do_colouration = 1 //CITADEL CHANGE: Spider legs now colourable.
 	color_blend_mode = ICON_MULTIPLY
 
 /datum/sprite_accessory/wing/moth
